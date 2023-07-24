@@ -45,5 +45,8 @@
     <ClCompile Include="Lv0_10_stringoverwrite.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Lv0_11_shufflestring.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

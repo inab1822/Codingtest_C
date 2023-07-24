@@ -5,7 +5,7 @@
 
 // solution 함수 선언과 정의
 // solution 함수는 문자형인 my_string, overwrite_string 과 정수형인 s 변수를 받는다.
-char* solution(const char* my_string, const char* overwrite_string, int s)
+char* solution_stringoverwrite(const char* my_string, const char* overwrite_string, int s)
 {
 	//my_string과 overwrite_string의 문자열길이를 size_t 형태인 각 변수에 저장.
 	size_t my_string_length = strlen(my_string);
@@ -25,7 +25,7 @@ char* solution(const char* my_string, const char* overwrite_string, int s)
 	return answer;
 }
 
-int main(void)
+int main_stringoverwrite(void)
 {
 	// 정수형 상수 MAX_LENGTH 변수를 선언하고 1000 값을 넣는다.
 	const int MAX_LENGTH = 1000;
