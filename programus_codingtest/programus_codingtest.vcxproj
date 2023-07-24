@@ -138,6 +138,7 @@
     <ClCompile Include="Lv0_09_evenorodd.c" />
     <ClCompile Include="Lv0_10_stringoverwrite.c" />
     <ClCompile Include="Lv0_11_shufflestring.c" />
+    <ClCompile Include="Lv0_12_listToString.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
