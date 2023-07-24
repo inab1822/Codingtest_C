@@ -135,6 +135,8 @@
     <ClCompile Include="Lv0_06_printadditionexpression.c" />
     <ClCompile Include="Lv0_07_plusstring.c" />
     <ClCompile Include="Lv0_08_loopstring.c" />
+    <ClCompile Include="Lv0_09_evenorodd.c" />
+    <ClCompile Include="Lv0_10_stringoverwrite.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

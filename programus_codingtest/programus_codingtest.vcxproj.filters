@@ -39,5 +39,11 @@
     <ClCompile Include="Lv0_08_loopstring.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Lv0_09_evenorodd.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Lv0_10_stringoverwrite.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

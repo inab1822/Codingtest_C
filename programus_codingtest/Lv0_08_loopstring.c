@@ -21,9 +21,9 @@
 // d
 // e
 
-int main(void) {
+int main_loopstring(void) {
     char s1[LEN_INPUT];
-    scanf("%s", s1);
+    scanf_s("%s", s1,sizeof(s1));
     for (int i = 0; i < strlen(s1); i++)
     {
         printf("%c\n", s1[i]);
