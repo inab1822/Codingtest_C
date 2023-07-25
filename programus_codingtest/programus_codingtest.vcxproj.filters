@@ -51,7 +51,10 @@
     <ClCompile Include="Lv0_12_listToString.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Lv0_13_biggetplus.c">
+    <ClCompile Include="Lv0_13_biggestplus.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Lv0_14_comparingOperationValue.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -139,7 +139,8 @@
     <ClCompile Include="Lv0_10_stringoverwrite.c" />
     <ClCompile Include="Lv0_11_shufflestring.c" />
     <ClCompile Include="Lv0_12_listToString.c" />
-    <ClCompile Include="Lv0_13_biggetplus.c" />
+    <ClCompile Include="Lv0_13_biggestplus.c" />
+    <ClCompile Include="Lv0_14_comparingOperationValue.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

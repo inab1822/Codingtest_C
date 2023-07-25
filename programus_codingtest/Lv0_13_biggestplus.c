@@ -2,7 +2,7 @@
 #include <stdbool.h>
 #include <stdlib.h>
 
-int solution(int a, int b) {
+int solution_biggestplus(int a, int b) {
 
     int answer = 0;  // 결과값을 저장할 정수형 변수 asnwer
     int an1, an2;  // a 값과 b 값을 더하는 것이 아닌 붙여서 저장할 정수형 변수 an1, bn1
